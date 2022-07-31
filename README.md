@@ -22,7 +22,7 @@
 <p>
 <img src = "https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width = '200' height = '200'>
 <img src = "https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width = '200' height = '200'>
-<img src = "https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width = '200' height = '200'>
+<img src = "https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width = '200' height = '200'>
 </p>
 
 <h3 align="left">Connect with me:</h3>
