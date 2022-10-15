@@ -35,7 +35,7 @@
 <a href="https://www.hackerrank.com/neereshkumar_nk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/neereshkumar_nk" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://www.linkedin.com/in/neeresh-kumar-perla-2a343516a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Neeresh Kumar Perla"/></a>
-<a href="https://www.instagram.com/_legend_says_nothing_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+<a href="https://www.instagram.com/neeresh_perla_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
 <a href="https://twitter.com/neereshperla" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="neereshperla" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeresh&show_icons=true&locale=en&layout=compact" alt="neeresh" /></p>
