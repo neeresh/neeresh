@@ -1,14 +1,13 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif)
   
 <h1 align = "center">Hola amigos 👋, I'm Neeresh Kumar</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
 
 
 <img align = 'right' alt = 'Coding' width = '400' height = '330' src = "https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeresh&label=Profile%20views&color=0e75b6&style=flat" alt="neeresh" /> </p>
 
-- Graduate student at **University of Massachusetts Dartmouth**.
+- PhD student at **University of Massachusetts Dartmouth**.
 - :books: I'm currently working on various **Machine Learning and Deep Learning datasets to enhance my knowledge through books, articles and building models for datasets** and also focusing on **Microsoft Certifications**.
 - :speech_balloon: Ask me anything about **Feature Engineering, Feature Selection, Hyperparameter Optimization, Imbalanced datasets, Machine Learning Models**.
 - :mailbox_with_mail: How to reach me: **neereshkumar.nk@gmail.com**.
