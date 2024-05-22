@@ -1,6 +1,6 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif)
   
-<h1 align = "center">Hola amigos 👋, I'm Neeresh Kumar</h1>
+<h1 align = "Neeresh Kumar Perla</h1>
 
 
 <img align = 'right' alt = 'Coding' width = '400' height = '330' src = "https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
