@@ -1,8 +1,7 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif)
+
+<h1 align = "center">Neeresh Kumar Perla</h1>
   
-<h1 align = "Neeresh Kumar Perla"</h1>
-
-
 <img align = 'right' alt = 'Coding' width = '400' height = '330' src = "https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeresh&label=Profile%20views&color=0e75b6&style=flat" alt="neeresh" /> </p>
@@ -38,7 +37,7 @@
 <a href="https://twitter.com/neereshperla" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="neereshperla" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeresh&show_icons=true&locale=en&layout=compact" alt="neeresh" /></p>
-
+</html
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeresh&show_icons=true&locale=en" alt="neeresh" /></p>
 
 <p></p>
