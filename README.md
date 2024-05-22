@@ -8,10 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeresh&label=Profile%20views&color=0e75b6&style=flat" alt="neeresh" /> </p>
 
 - PhD student at **University of Massachusetts Dartmouth**.
-- :books: I'm currently working on various **Machine Learning and Deep Learning datasets to enhance my knowledge through books, articles and building models for datasets** and also focusing on **Microsoft Certifications**.
-- :speech_balloon: Ask me anything about **Feature Engineering, Feature Selection, Hyperparameter Optimization, Imbalanced datasets, Machine Learning Models**.
+- :speech_balloon: Expertise in **LLMs, Transformers, Adversarial Machine Learning, and Continual-Learning.**.
 - :mailbox_with_mail: How to reach me: **neereshkumar.nk@gmail.com**.
-- :mailbox_with_no_mail: Open for **collaboration**, writing a **research paper** and **any projects**.
+- :mailbox_with_no_mail:Open to **collaborations**, **research**, and **projects**.
 - I love watching TV Series :tv:, Animes :tv: and playing games :video_game: (Witcher 3: The Wild Hunt and FIFA 22 are :cupid:).
 - :hearts: : :cocktail:, :pizza:, :hamburger:, :fries:, :poultry_leg:, :sushi:, :ramen:, :doughnut:, :cookie:, :chocolate_bar:, :icecream:.
 
