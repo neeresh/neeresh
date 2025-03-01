@@ -12,8 +12,8 @@
   <tr>
     <td style="width: 70%; vertical-align: top; padding: 10px;">
       <ul style="font-size: 1.2rem;">
-        <li>🎓 PhD student at <b>University of Massachusetts Lowell</b>.</li>
-        <li>💻 Expertise in <b>Computer Vision and AI</b>.</li>
+        <li>🎓 I am a first-year Computer Science Ph.D. student at the University of Massachusetts Lowell. </li>
+        <li>💻 Expertise in <b>machine learning</b> and <b>computer vision</b>.</li>
         <li>📫 How to reach me: <b>neereshkumar.nk@gmail.com</b>.</li>
         <li>🤝 Open to collaborations, research, and projects.</li>
         <li>📺 I love watching TV series, animes, and playing games.</li>
